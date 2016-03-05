@@ -1,0 +1,12 @@
+Script started on 2016年03月05日 (週六) 23時52分57秒
+]0;F74046420@2015cpp: ~F74046420@2015cpp:~$ whoami:[K; pwd
+F74046420
+/home/F74046420
+]0;F74046420@2015cpp: ~F74046420@2015cpp:~$ git clone[K[K[K[Konfig -l
+user.name=caviarNCKU
+user.email=eddy113014@gmail.com
+]0;F74046420@2015cpp: ~F74046420@2015cpp:~$ git clone https://github.com/caviarNCKU/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74046420@2015cpp: ~F74046420@2015cpp:~$ exit
+
+Script done on 2016年03月05日 (週六) 23時54分40秒
