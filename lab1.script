@@ -1,12 +1,22 @@
-Script started on 2016年03月05日 (週六) 23時52分57秒
-]0;F74046420@2015cpp: ~F74046420@2015cpp:~$ whoami:[K; pwd
+Script started on 2016年03月13日 (週日) 21時39分22秒
+]0;F74046420@2015cpp: ~/lab1[01;32mF74046420@2015cpp[00m:[01;34m~/lab1[00m$ whoami; pwd
 F74046420
-/home/F74046420
-]0;F74046420@2015cpp: ~F74046420@2015cpp:~$ git clone[K[K[K[Konfig -l
+/home/F74046420/lab1
+]0;F74046420@2015cpp: ~/lab1[01;32mF74046420@2015cpp[00m:[01;34m~/lab1[00m$ gir[Kt config -l
 user.name=caviarNCKU
 user.email=eddy113014@gmail.com
-]0;F74046420@2015cpp: ~F74046420@2015cpp:~$ git clone https://github.com/caviarNCKU/lab1.git
-fatal: destination path 'lab1' already exists and is not an empty directory.
-]0;F74046420@2015cpp: ~F74046420@2015cpp:~$ exit
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/caviarNCKU/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+]0;F74046420@2015cpp: ~/lab1[01;32mF74046420@2015cpp[00m:[01;34m~/lab1[00m$ git clone https://[K]0;F74046420@2015cpp: ~/lab1[01;32mF74046420@2015cpp[00m:[01;34m~/lab1[00m$ git clone https://github. com/caviarNCKU/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 8, done.[K
+remote: Compressing objects:  20% (1/5)   [Kremote: Compressing objects:  40% (2/5)   [Kremote: Compressing objects:  60% (3/5)   [Kremote: Compressing objects:  80% (4/5)   [Kremote: Compressing objects: 100% (5/5)   [Kremote: Compressing objects: 100% (5/5), done.[K
+remote: Total 8 (delta 0), reused 8 (delta 0), pack-reused 0[K
+Unpacking objects:  12% (1/8)   Unpacking objects:  25% (2/8)   Unpacking objects:  37% (3/8)   Unpacking objects:  50% (4/8)   Unpacking objects:  62% (5/8)   Unpacking objects:  75% (6/8)   Unpacking objects:  87% (7/8)   Unpacking objects: 100% (8/8)   Unpacking objects: 100% (8/8), done.
+]0;F74046420@2015cpp: ~/lab1[01;32mF74046420@2015cpp[00m:[01;34m~/lab1[00m$ exit
 
-Script done on 2016年03月05日 (週六) 23時54分40秒
+Script done on 2016年03月13日 (週日) 21時41分03秒
